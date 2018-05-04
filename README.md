@@ -20,4 +20,9 @@ know
 ~i know these~
 - and this  
 ---- this too  
-- [ ] hmm
+- [ ] hmm  
+```ruby
+  def foo
+    puts 'bar'
+  end
+```
